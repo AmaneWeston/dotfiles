@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = amane.weston02@gmail.com
+	name = Amane Weston
